@@ -1,3 +1,3 @@
 # image-compressor
 
-Compresses an image using discrete Fourier transform
+Compresses an image using fast Fourier transform
